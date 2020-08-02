@@ -1,0 +1,5 @@
+Django==1.11.17
+django-sslserver==0.22
+pytz==2019.3
+selenium==3.141.0
+urllib3==1.25.6
